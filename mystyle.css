@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.post {
+      text-align: left;
+      background-color: white;
+      width: 350px;
+      height: 150px;
+      margin: auto;
+      border: 0px solid red;
+}
+.top {
+    background-color: white;
+    padding: 10px;
+}
+#dots {
+    float: right;
+}
+.five {
+    height: 20px;
+    width: 20px; 
+}
+.photo {
+    height: 400px;
+    width: 350px;
+    flex-wrap: wrap;
+}
+.bottom {
+    border:0px red solid;
+    background-color: white;
+    padding: 15px; 
+}
+.pic5 {
+    /* margin: 10px; */
+    float: left;
+    height: 2em;
+    margin-right: 5px;
+
+}
+.menu {
+    float: right;
+    border: 0px solid pink;
+    font-size: 2em;
+    background-color: white;
+}
+.icons {
+    font-size: 2em;
+    font-weight: bold;
+    padding: 15px;
+   background-color: white;
+}
+#bookmark {
+    float: right;
+}
+.likedby {
+    margin-bottom: 1em;
+}
+.likedby .bold {
+    font-weight: bold;
+}
